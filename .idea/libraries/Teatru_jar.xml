@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Teatru_jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Teatru_jar/Teatru.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Teatru_jar/Teatru (1).jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

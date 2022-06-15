@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Teatru:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Teatru_jar</output-path>
+    <root id="archive" name="Teatru.jar">
+      <element id="module-output" name="Teatru" />
+    </root>
+  </artifact>
+</component>
